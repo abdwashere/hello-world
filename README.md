@@ -2,4 +2,4 @@
 first repository on github
 
 
-hi there my name is ahmet burak and this is my first githun experience.
+hi there my name is ahmet burak and this is my first github experience.
